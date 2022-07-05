@@ -1,6 +1,6 @@
 # Memes-generator-App
 
-![](https://img.shields.io/badge/MemesGeneratorApp-redviolet)
+![](https://img.shields.io/badge/MemesGeneratorApp-purpleviolet)
 
 
 > Todo List
